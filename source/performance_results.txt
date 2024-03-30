@@ -1,0 +1,2 @@
+In single thread, the reverse image has taken 29.45 seconds.
+In multiple threads, the reverse image has taken 46.45 seconds.
